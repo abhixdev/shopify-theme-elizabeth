@@ -1,0 +1,8 @@
+{
+    "sections":{
+        "template":{
+            "type":"template-search.liquid"
+        }
+    },
+    "order": ["template"]
+}
